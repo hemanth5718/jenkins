@@ -2,9 +2,9 @@ package pkg3;
 
 import org.testng.annotations.Test;
 
-public class Class3 {
+public class Class3Test {
 	@Test
-	public void jen() {
+	public void jentest() {
 		System.out.println("help");
 		
 		String browser = System.getProperty("browser");
